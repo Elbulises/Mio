@@ -1,0 +1,4 @@
+// script.js
+function mostrarMensaje() {
+    alert('¡Hola! Gracias por visitar mi página web.');
+}
